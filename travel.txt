@@ -4,9 +4,11 @@ Packing List
 - coat 
 -socks 
 - underwear
+-shirt 
 
 Picnic 
 --------------
 -bread 
 -burger 
 -cheese 
+-ketchup
