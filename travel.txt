@@ -2,7 +2,11 @@ Packing List
 -------------
 - shoes 
 - coat 
+-socks 
+- underwear
 
 Picnic 
 --------------
 -bread 
+-burger 
+-cheese 
