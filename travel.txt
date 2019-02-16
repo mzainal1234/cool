@@ -5,7 +5,8 @@ Packing List
 -socks 
 - underwear
 -shirt 
--camera 
+-camera
+- jacket
 
 Picnic 
 --------------
